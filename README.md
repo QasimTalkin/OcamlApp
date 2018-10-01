@@ -14,3 +14,11 @@
 
 • Algebraic data types and pattern matching to define and manipulate complex data structures. Available in Scala and F#.
 
+
+FIZZBUZZ.ml 
+
+(*  An Ocaml  program that prints the numbers from 0 to 100, one per line. 
+* For multiples of three it will print "Fizz" instead of the number.
+* For multiples of five print "Buzz". 
+* For numbers which are multiples of both three and five print "FizzBuzz".
+*)
